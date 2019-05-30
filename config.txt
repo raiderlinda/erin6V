@@ -1,5 +1,5 @@
 owner=547091659553243138
-prefix=!
+prefix=V
 game=Vplay
 stayinchannel=true
 songinstatus=false
